@@ -1,0 +1,9 @@
+.sidenav {
+    width: 70%;
+    background-color: #2b2727;
+}
+
+.panel {
+    margin-left: -85%;
+    margin-top: -20px;
+}
